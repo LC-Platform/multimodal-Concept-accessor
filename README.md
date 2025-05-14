@@ -45,8 +45,7 @@ This approach leverages a domain-specific transformer model trained on scientifi
 ##  3. KeyBERT
 
 Uses:
-- [`KeyBERT`](https://github.com/MaartenGr/KeyBERT)
-
+- KeyBERT
 KeyBERT generates keywords by embedding both the document and candidate phrases using a BERT-based model, and then selecting keywords that are semantically similar to the document.
 
 ---
@@ -54,7 +53,7 @@ KeyBERT generates keywords by embedding both the document and candidate phrases 
 ## 4. YAKE
 
 Uses:
-- [`yake`](https://github.com/LIAAD/yake)
+- yake
 
 Yet Another Keyword Extractor (YAKE) is a lightweight unsupervised method that uses statistical features from the text itself (like casing, position, frequency) without external corpora.
 
@@ -63,7 +62,7 @@ Yet Another Keyword Extractor (YAKE) is a lightweight unsupervised method that u
 ##  5. RAKE
 
 Uses:
-- [`rake-nltk`](https://pypi.org/project/rake-nltk/)
+- rake-nltk
 
 RAKE (Rapid Automatic Keyword Extraction) is an unsupervised, domain-independent keyword extraction algorithm based on the frequency of co-occurring words.
 
