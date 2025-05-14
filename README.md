@@ -45,7 +45,7 @@ The Figma file (`Concept Accessor_DESIGN.fig`) contains:
 ---
 
 
-### 🚀 Goals
+### Goals
 
 * Improve conceptual clarity through multimedia.
 * Enhance accessibility for differently-abled users.
